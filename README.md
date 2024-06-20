@@ -1,6 +1,7 @@
-#Little Lemon Restaurant Web App - Reservation System
+# Front-end developer capstone project
+#Little Lemon Restaurant Web App - 
 
-This web application allows users to easily book tables at the Little Lemon restaurant. It's designed with a focus on user experience, accessibility, and robust functionality.
+This web application allows users to book tables at the Little Lemon restaurant easily. It's designed to focus on user experience, accessibility, and robust functionality.
 
 #Project Overview
 The app is built using React and includes the following features:
